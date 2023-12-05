@@ -14,7 +14,8 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    environment: DOCKER_HUB_SECRETS
+    
     steps:
     - uses: actions/checkout@v3
 
