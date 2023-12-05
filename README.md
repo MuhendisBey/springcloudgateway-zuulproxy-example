@@ -1,0 +1,1 @@
+[![Docker Image CI](https://github.com/MuhendisBey/springcloudgateway-zuulproxy-example/actions/workflows/docker-build-image.yml/badge.svg?branch=main)](https://github.com/MuhendisBey/springcloudgateway-zuulproxy-example/actions/workflows/docker-build-image.yml)
